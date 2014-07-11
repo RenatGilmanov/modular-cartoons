@@ -5,7 +5,11 @@ Modular cartoons
 -----------
 Description
 -----------
-This is just a simple set of SVG primitives, required to build simple, but good-looking cartoons.
+This is just a simple set of SVG primitives, required to build simple, but good-looking cartoons. 
+
+Initially created by `AterLeo`_
+
+.. _AterLeo: http://leo-tvorit.lj.ru
 
 --------
 Features
@@ -14,10 +18,23 @@ Features
 - basic shapes and various mimics
 - complete characters
 
-----------
-Disclaimer
-----------
-This is **beta** code.  It is probably okay for production environments, but may not work exactly as expected. Refunds will not be given.
+-------
+Examples
+-------
+
+- `vk.com/pm_motors`_
+
+.. _vk.com/pm_motors: https://vk.com/pm_motors
+
+.. image:: http://2.bp.blogspot.com/-FNEsm6Vk2UE/U4uD-x3rhVI/AAAAAAAAAHs/e6dCKDjE454/s1600/pm-022.png
+   :align: center
+
+- `programmers-in-ua`_
+
+.. _programmers-in-ua: http://programmers-in-ua.blogspot.com/
+
+.. image:: http://2.bp.blogspot.com/-05AFXQQzA40/UZ5XtEK0PZI/AAAAAAAAFCI/ry1hzyHCXoA/s1600/vse-dlya-testa.png
+   :align: center
 
 ---------
 Additional information
