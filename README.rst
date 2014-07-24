@@ -29,6 +29,13 @@ Examples
 .. image:: http://2.bp.blogspot.com/-FNEsm6Vk2UE/U4uD-x3rhVI/AAAAAAAAAHs/e6dCKDjE454/s1600/pm-022.png
    :align: center
 
+- `velo-master.in.ua`_
+
+.. _velo-master.in.ua: http://velo-master.in.ua
+
+.. image:: http://velo-master.in.ua/advert/velo-cartoon.jpg
+   :align: center
+
 - `programmers-in-ua`_
 
 .. _programmers-in-ua: http://programmers-in-ua.blogspot.com/
