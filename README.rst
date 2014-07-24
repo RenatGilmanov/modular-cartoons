@@ -5,7 +5,7 @@ Modular cartoons
 -----------
 Description
 -----------
-This is just a simple set of SVG primitives, required to build simple, but good-looking cartoons. 
+This is just a basic set of SVG primitives, required to build simple, but good-looking cartoons. 
 
 Initially created by `AterLeo`_
 
@@ -34,6 +34,13 @@ Examples
 .. _programmers-in-ua: http://programmers-in-ua.blogspot.com/
 
 .. image:: http://2.bp.blogspot.com/-05AFXQQzA40/UZ5XtEK0PZI/AAAAAAAAFCI/ry1hzyHCXoA/s1600/vse-dlya-testa.png
+   :align: center
+
+-------
+Editing example
+-------
+
+.. image:: http://habrastorage.org/getpro/habr/post_images/dd4/8f8/76b/dd48f876ba15fb3b911818737755d189.gif
    :align: center
 
 ---------
