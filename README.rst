@@ -40,7 +40,7 @@ Examples
 
 .. _programmers-in-ua: http://programmers-in-ua.blogspot.com/
 
-.. image:: http://2.bp.blogspot.com/-05AFXQQzA40/UZ5XtEK0PZI/AAAAAAAAFCI/ry1hzyHCXoA/s1600/vse-dlya-testa.png
+.. image:: http://2.bp.blogspot.com/-a4BtzSWrUy8/UcLGyfz7R5I/AAAAAAAAAr0/dDj8Wa0BwD0/s1600/iphone-issue.png
    :align: center
 
 -------
