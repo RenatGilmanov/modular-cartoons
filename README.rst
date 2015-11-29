@@ -18,36 +18,14 @@ Features
 - basic shapes and various mimics
 - complete characters
 
--------
-Examples
--------
-
-- `vk.com/pm_motors`_
-
-.. _vk.com/pm_motors: https://vk.com/pm_motors
-
-.. image:: http://2.bp.blogspot.com/-FNEsm6Vk2UE/U4uD-x3rhVI/AAAAAAAAAHs/e6dCKDjE454/s1600/pm-022.png
-   :align: center
-
-- `velo-master.in.ua`_
-
-.. _velo-master.in.ua: http://velo-master.in.ua
-
-.. image:: http://velo-master.in.ua/advert/velo-cartoon.jpg
-   :align: center
-
-- `programmers-in-ua`_
-
-.. _programmers-in-ua: http://programmers-in-ua.blogspot.com/
-
-.. image:: http://2.bp.blogspot.com/-a4BtzSWrUy8/UcLGyfz7R5I/AAAAAAAAAr0/dDj8Wa0BwD0/s1600/iphone-issue.png
+.. image:: http://renat.in.ua/image/github/modular-cartoons-01.png
    :align: center
 
 -------
 Editing example
 -------
 
-.. image:: http://habrastorage.org/getpro/habr/post_images/dd4/8f8/76b/dd48f876ba15fb3b911818737755d189.gif
+.. image:: http://renat.in.ua/image/github/modular-cartoons-02.gif
    :align: center
 
 ---------
