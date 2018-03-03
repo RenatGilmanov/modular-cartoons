@@ -2,6 +2,9 @@
 Modular Cartoons
 ============================
 
+.. image:: doc/images/characters.png?raw=true
+   :align: center
+
 -----------
 Description
 -----------
