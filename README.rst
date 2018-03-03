@@ -1,11 +1,11 @@
 ============================
-Modular cartoons
+Modular Cartoons
 ============================
 
 -----------
 Description
 -----------
-This is just a basic set of SVG primitives, required to build simple, but good-looking cartoons. 
+Provides a set of SVG primitives, required to build simple, but good-looking cartoons. 
 
 Initially created by `AterLeo`_
 
@@ -27,13 +27,6 @@ Editing example
 
 .. image:: http://renat.in.ua/image/github/modular-cartoons-02.gif
    :align: center
-
----------
-Additional information
----------
-Please see `initial discussion`_:
-
-.. _initial discussion: http://art-guru.info/1312/kak-mozhno-uluchshit-komiks
 
 -------
 License
