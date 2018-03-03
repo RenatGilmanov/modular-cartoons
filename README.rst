@@ -18,14 +18,14 @@ Features
 - basic shapes and various mimics
 - complete characters
 
-.. image:: http://renat.in.ua/image/github/modular-cartoons-01.png
+.. image:: doc/images/cartoon-library.png?raw=true
    :align: center
 
 -------
 Editing example
 -------
 
-.. image:: http://renat.in.ua/image/github/modular-cartoons-02.gif
+.. image:: doc/images/editing-example.gif?raw=true
    :align: center
 
 -------
