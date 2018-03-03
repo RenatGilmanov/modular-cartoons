@@ -10,6 +10,9 @@ Description
 -----------
 Provides a set of SVG primitives, required to build simple, but good-looking cartoons. 
 
+.. image:: doc/images/instagram-cartoon.png?raw=true
+   :align: center
+
 Initially created by `AterLeo`_
 
 .. _AterLeo: http://leo-tvorit.lj.ru

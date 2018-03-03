@@ -88,9 +88,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-1108.2979"
-     inkscape:cy="1195.6055"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="-962.8359"
+     inkscape:cy="1386.5243"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5918,14 +5918,14 @@
       <text
          id="text6017"
          y="-857.63782"
-         x="-454"
+         x="-435.81726"
          style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            style="font-size:18px;line-height:1.25;font-family:sans-serif;fill:#000000"
            y="-857.63782"
-           x="-454"
+           x="-435.81726"
            id="tspan6019"
-           sodipodi:role="line">Чо такое?</tspan></text>
+           sodipodi:role="line">What?</tspan></text>
     </g>
     <g
        id="g4012"
@@ -7026,6 +7026,61 @@
            rx="5.625"
            ry="6.3392859" />
       </g>
+    </g>
+    <g
+       id="g6762-9"
+       transform="translate(-173.94658,-2086.9265)"
+       inkscape:export-filename="D:\Работа\2013\comic\Leo-comics\009.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <ellipse
+         ry="8.9285717"
+         rx="36.07143"
+         cy="1541.2908"
+         cx="-651.07141"
+         transform="matrix(0.13664295,0,0,0.66649195,-525.00809,512.72823)"
+         id="path6764-7"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.31366754;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="8.9285717"
+         rx="36.07143"
+         cy="1541.2908"
+         cx="-651.07141"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.12412453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path6766-5"
+         transform="matrix(0.337331,0,0,0.65702785,-394.34584,523.48648)" />
+      <ellipse
+         ry="8.9285717"
+         rx="36.07143"
+         cy="1541.2908"
+         cx="-651.07141"
+         transform="matrix(0.67773439,0,0,0.64632833,-172.71892,535.65608)"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.51092756;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path6768-3" />
+      <ellipse
+         ry="8.9285717"
+         rx="36.07143"
+         cy="1541.2908"
+         cx="-651.07141"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.51092756;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path6770-4"
+         transform="matrix(0.67773439,0,0,0.64632833,-172.71892,533.37096)" />
+      <ellipse
+         ry="0.71428573"
+         rx="1.3392857"
+         cy="331.11218"
+         cx="385.625"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path6772-3"
+         transform="translate(-1019.506,1198.5001)" />
+      <ellipse
+         ry="0.71428573"
+         rx="1.3392857"
+         cy="331.11218"
+         cx="385.625"
+         transform="translate(-1014.6846,1200.1966)"
+         id="path6774-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
 </svg>
